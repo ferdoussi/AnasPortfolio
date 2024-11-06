@@ -178,10 +178,9 @@ const skills = [
   // Initial render
   renderExperienceList();
   renderExperienceDetails(activeExperience);
-  
-  
 
 
+  
   function toggleDetails(button) {
     const details = button.nextElementSibling;
     if (details.classList.contains('active')) {

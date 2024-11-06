@@ -59,6 +59,7 @@ body{
     font-weight: var(--font-medium);
     color: var(--text-color);
     line-height: 1.6;
+    background-color: rgb(238, 237, 237);
 }
 h1,h2,p{
     margin: 0;
